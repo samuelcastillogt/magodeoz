@@ -1,0 +1,82 @@
+Titulo: Al otoño espero
+Artista: jose-andrea
+Fuente: https://acordesweb.com/cancion/jose-andrea/al-otono-espero
+ID fuente: 3425
+Capturado: 2026-09-28T18:21:24.076356+00:00
+SHA-256: 39dd607d2a72a3cc8a7c8bc0bcf4ad784f2784147ddd51ebbd701349cf33932f
+
+[INTRO]
+
+DO, FA. DO, SOL, LAm, SOL, FA, SOL, REm, MIm, LAm, MIm, LAm
+
+[VERSO I]
+LAm             (SOL-SOL-SOL-LAm)      FA  MI
+El mar acuna mis sueños mis esperanzas mi futuro
+LAm              (SOL-SOL-SOL-LAm)               FA  MI
+Madre vieja de melena verde sonrisa blanca, corazón oscuro
+LAm                        FA      MI
+Mano firme y generosa arrugada y salvaje
+LAm                                          FA   MI
+que toca el cielo sentado en tus orillas al otoño espero
+
+[PRE ESTRIBILLO]
+ REm        SOL            FA               SOL
+Me quedo siempre a mirar como te peina el viento
+ MIm                  RE        LAm         SOL
+el mismo viento que lleva los veleros mar adentro
+ MIm                  RE    DO              SOL
+el mismo viento que a mí me agita los sentimientos
+
+[ESTRIBILLO]
+ DO            FA     DO        SOL     LAm       SOL     FA
+Madre vieja de melena verde y corazón oscuro que toca el cielo
+ SOL           REm        MIm   LAm    SOL
+Sentado en tus orillas al otoño espero
+ DO            FA     DO        SOL     LAm       SOL     FA
+Madre vieja de melena verde y corazón oscuro que toca el cielo
+ SOL           REm        MIm   LAm    SOL   (LAm-SOL...)
+Sentado en tus orillas al otoño espero
+
+[VERSO II]
+ LAm                          FA    MI
+A tu lado descubrí que significa el otoño
+ LAm                                  FA   MI
+como tiñe el horizonte con sU tinte de oro rojo
+
+[PRE ESTRIBILLO]
+ REm        SOL            FA               SOL
+Me quedo siempre a mirar como te peina el viento
+ MIm                  RE        LAm         SOL
+el mismo viento que lleva los veleros mar adentro
+ MIm                  RE    DO              SOL
+el mismo viento que a mí me acuna los sentimientos
+
+[ESTRIBILLO]
+ DO            FA     DO        SOL     LAm       SOL     FA
+Madre vieja de melena verde y corazón oscuro que toca el cielo
+ SOL           REm        MIm   LAm    SOL
+Sentado en tus orillas al otoño espero
+ DO            FA     DO        SOL     LAm       SOL     FA
+Madre vieja de melena verde y corazón oscuro que toca el cielo
+ SOL           REm        MIm   LAm    SOL
+Sentado en tus orillas al otoño espero
+ DO            FA     DO        SOL     LAm       SOL     FA
+Madre vieja de melena verde y corazón oscuro que toca el cielo
+ SOL           REm        MIm   LAm    SOL
+Sentado en tus orillas al otoño espero
+ DO            FA     DO        SOL     LAm       SOL     FA
+Madre vieja de melena verde y corazón oscuro que toca el cielo
+ SOL           REm        MIm   LAm    SOL
+Sentado en tus orillas al otoño espero
+
+--------------
+  ESTRUCTURA
+--------------
+
+[INTRO]
+[VERSO I]
+[PRE ESTRIBILLO]
+[ESTRIBILLO]    x2
+[VERSO II]
+[PRE ESTRIBILLO]
+[ESTRIBILLO]    x4

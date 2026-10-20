@@ -1,0 +1,92 @@
+Titulo: El hombre de la mirada triste
+Artista: mago-de-oz
+Fuente: https://acordesweb.com/cancion/mago-de-oz/el-hombre-de-la-mirada-triste
+ID fuente: 240442
+Capturado: 2026-09-28T18:15:18.958833+00:00
+SHA-256: b5235f148271891725b1fd2e30cc3a7b4404860bd36ec1fb39fc6e57ccae8a64
+
+Arpegiando:
+( Dm Bb )x8
+ Gm x2
+Am x2
+( Dm Bb )x2
+( Gm x2 Am x2 )x2
+ Bb x2 C x2
+( Dm Bb )x2 Dm
+
+Dm-C-Bb Bb C ( Dm |N¹) x2 Todo esto
+Dm-C-Bb Bb C  F - C - Dm  Bb A Dm
+
+C                 F         C
+   En mi jaula de oro y soledad
+F      C           Dm
+  Vivo hace tiempo ya
+C                F   -   C - Am
+  He alquilado mi propia realidad
+        F            G            Dm
+¿Donde está, donde está el que yo fui?
+C                F  -  C - Am
+  He comprado sonrisas por tener
+F      G           C
+  Algo de calor en mí
+
+Dm-C-Bb         C           (Dm)
+        Y en mi jaula, amor, lloro y pienso en ti
+Dm-C-Bb        C          (Dm)
+        Los aplausos que maté
+Dm-C-Bb       C             F  -   C   -   Dm
+        En lo que perdí,¿mi suerte donde esta?
+Dm---Bb     ( A |N²)        Dm
+        Mi mirada triste está
+
+C               F              C
+  En mi celda de sueños que rompí
+F    C                Dm
+  Me visita el que yo fuí
+C         F              C   -   Am
+  Abriré los cerrojos que hay en mí
+    F        G         Dm
+Volvere, volvere, esperame
+C                   F   -   C  -  Am
+  Los castillos de arena que levanté
+F        G           C
+  Se derrumbarán por ti
+
+Dm-C-Bb         C           (Dm)
+        Y en mi jaula, amor, lloro y pienso en ti
+Dm-C-Bb        C          (Dm)
+        Los aplausos que maté
+Dm-C-Bb       C             F  -   C   -   Dm
+        En lo que perdí,¿mi suerte donde esta?
+Dm---Bb      (A)           Dm
+        Mi mirada triste está
+
+Fm
+Me fundi con besos de ti
+     D#              D#
+Mi coraza hecha de hiel
+C#        (G#-Gm-Fm |N³)( C           C#-C |N4)
+Regresaré, a  yu dame,    no te olvides de mí.
+
+Solo de guitarra:
+Fm D# C# A# | A7 C
+
+Dm-C-Bb         C           (Dm)
+        Y en mi jaula, amor, lloro y pienso en ti
+Dm-C-Bb        C          (Dm)
+        Los aplausos que maté
+Dm-C-Bb       C             F  -   C   -   Dm
+        En lo que perdí,¿mi suerte donde esta?
+Dm---Bb      (A)           Dm
+        Mi mirada triste está
+
+*Notas:
+N¹.- Los (Dm) pueden sustituirse por un "juego"
+con los acordes C5-D5
+N².- En el coro el acordé (A) es el original de
+la canción ,pero si te gusta más la melodía
+puedes "cambiarlo" por C
+N³.- (G#-Gm-Fm) Parecen no estar en la canción,
+asi que tocala solo si lo deseas.
+N4.- No estoy 100% seguro de estas notas(C C#-C)
+también puede intentar algo como (G G#-G)

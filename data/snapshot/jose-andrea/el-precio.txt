@@ -1,0 +1,42 @@
+Titulo: El Precio
+Artista: jose-andrea
+Fuente: https://acordesweb.com/cancion/jose-andrea/el-precio
+ID fuente: 3430
+Capturado: 2026-09-28T18:21:36.993659+00:00
+SHA-256: ed208ded7b835604707b10c26efa135dfc6c9e83d95b2b8509bdbac416d7cf21
+
+verso 1
+
+Bb   Cm7             Dm7 Bb    Cm7           Dm7Bb Cm7       Dm7 Bb         Cm7      Dm7
+Se bien que algún día mi tormenta escampará Espero mi vida que en mi deje de nevar
+
+Puente
+
+F  Cm7 Cm7      Dm7      Bb           F             Dm7
+Tengo tanto que dar,pero mis demonios no me kieren dejar.
+
+Estribillo
+     F5              C5         F5                C5
+Intentaré si he de caer incorporarme cien veces cien,
+          F5              C5           D5
+sin importarme el precio que haya que pagar.
+
+El resto de la canción es con la misma estructura de acordes.
+
+Juro que no habrá amanecer en el que no luche por ser libre al fin
+y no deje nunca de crecer.
+El miedo me corteja,bailan mis dudas con mi mal.
+El fracaso me aconseja que no cante victoria hasta el final
+Perdí mi libertad por creer que el mundo terminaba en mis pies.
+¡Abrazame!,no me dejes caer.Arropame con la fuerza de ver
+que mañana el sol sadrá para mi también.
+Ayudame dame tu luz.Comparte conmigo mi cruz.
+Préstame constancia mi niña,¡pretame paz!
+
+  Bb   Cm7  Dm7 F
+---1----3---5---1-----------------------
+---3----3---5---1-----------------------
+---3----5---7---2-----------------------
+---3----5---7---3-----------------------
+---1----3---5---3-----------------------
+----------------1-----------------------

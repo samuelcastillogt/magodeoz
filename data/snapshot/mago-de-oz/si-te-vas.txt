@@ -1,0 +1,76 @@
+Titulo: Si te vas
+Artista: mago-de-oz
+Fuente: https://acordesweb.com/cancion/mago-de-oz/si-te-vas
+ID fuente: 112077
+Capturado: 2026-09-28T18:20:18.360953+00:00
+SHA-256: f3e106cb6cfe4ff6131be1a18b214721b00afbe098dd2db849e8827aad17915b
+
+INTRO
+
+e --------------------------------------------------------------------
+B --10------------8-----6----------------------------------8---10-----
+G -----10--5--5-----9-----7---------7--5-----7--10--9--10-------------
+D ----------------------------7--7--------8---------------------------
+A --------------------------------------------------------------------
+E --------------------------------------------------------------------
+
+VERSO 1
+F             C
+Vengo de tanto perder
+     Dm        C
+Que tuve miedo a tener
+F            C            Dm                C
+Algo por lo que abrir mi alma y ponerla a tus pies
+F           A#       C
+Siento del viento celos,
+              Dm
+Por acariciar tu cara cada mañana
+    A#     Dm        C
+Y quiero pegarme con el
+
+ESTRIBILLO
+       F                C
+Y a pesar de todo que difícil es
+Dm                        A      G
+Que no me duela estar sin ti
+F                     C
+Yo sere tu aire tu seras la piel
+    Dm            C
+Que cubra mi soledad
+¡Quiero estar junto a ti!
+
+VERSO 2
+F            C           Dm
+Quiero dejar de morir en vida
+        C
+Tu me haces vivir
+F            C          Dm        C
+Todo con lo que soñe y nunca pude tener
+F          A#           C
+Quiero dormir en tus ojos y al despertar
+Dm                     A#    Dm         C
+Beber de tu boca, todavía de ti tengo sed
+
+FINAL
+F             C       Dm         C
+Si te vas, mi amor si tu te vas
+         A#        C            Dm      C
+Me volvere a encerrar en vida y no saldre
+F            C           Dm            C
+¿Dónde estas?, mi vida ¿Dónde estas?
+         A#       C          Dm     C
+Pues necesito tu amor para vivir
+
+ESQUEMA:
+
+INTRO (2 Veces)
+VERSO 1
+ESTRIBILLO
+PUENTE
+VERSO 2
+ESTRIBILLO
+PUENTE
+ESTRIBILLO
+FINAL (2 Veces)
+
+En el Final de Fondo suena el Intro.

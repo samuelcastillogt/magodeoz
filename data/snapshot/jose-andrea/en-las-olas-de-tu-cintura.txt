@@ -1,0 +1,41 @@
+Titulo: En las olas de tu cintura
+Artista: jose-andrea
+Fuente: https://acordesweb.com/cancion/jose-andrea/en-las-olas-de-tu-cintura
+ID fuente: 3431
+Capturado: 2026-09-28T18:21:39.012530+00:00
+SHA-256: cb21829972ce8a1636fff6e6ae46d8fbb0a819dc3e542baa2daa62bdcab591b0
+
+intro
+arpegio en la7+
+
+verso1 arpegiando(el arpegio es sencillo os lleva el oido)
+
+A7            C           Dm                  A7                   G
+Preguntale al mar si es verdad ke existe mas allá de la brisa un lugar.
+A7          C         Dm              A7                G
+En el ke nadar entre las olas de tu cintura y allí naufragar.
+FGA7+Dm     C          G     F       G       A7        Dm   C      Bb
+Oler el perfume de tus besos y entre tus piernas bucear en busca de amor.
+
+verso2(igual ke el verso1)
+
+Hoy mi amor me kisiera aogar en el mar ke hay dentro de ti.
+Ser tu coral y ke en tu boca pudiera nadar,ser tu estrella de mar.
+Oler el perfume de tus besos y entre tus piernes bucear en busca de amor.
+
+estribillo
+
+Eb5         Bb5                 F5       C5
+Kiero ser tu isla ¡mi amor!y respirar tu voz
+Eb5            Bb5            F5
+Y en las olas de tu cintura morir.
+
+Tabla de acordes:
+
+A7   C  Dm  G  F  Bb5 Eb
+-0---0---1--3--1----------------------
+-0---1---3--0--1----------------------
+-2---0---2--0--2----------------------
+-2---2---0--0--3--3---8---------------
+-0---3------2-----1---6---------------
+------------3-------------------------

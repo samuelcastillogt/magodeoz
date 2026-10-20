@@ -1,0 +1,62 @@
+Titulo: Moonlight Shadow
+Artista: mago-de-oz
+Fuente: https://acordesweb.com/cancion/mago-de-oz/moonlight-shadow
+ID fuente: 112041
+Capturado: 2026-09-28T18:18:47.685632+00:00
+SHA-256: 9efc4fc20831a65a2e7a9b045dc3209e10b129b3f030cbf42ab05d8c3931dc81
+
+E-B-E-A-B <-----Base De La Introduccion
+
+Verso 1:
+         C#m            A
+The last that ever she saw him,
+ B                 E         B
+carried away by a moonlight shadow,
+     C#m                  A
+he passed on worried and warning,
+ B                 E        B
+carried away by a moonlight shadow.
+
+Verso 2:
+  E                     B
+Lost in a riddle that saturday night,
+C#m    A         B
+far away on the other side,
+ E                                B
+he was caught in the middle of a desperate fight,
+C#m      A                   B
+and she couldn´t find how to push through.
+
+(SE REPITEN LOS MISMOS ACORDES DE EL VERSO 1 Y EL VERSO 2)
+
+CORO:
+B5     B5
+I stay, i pray,
+    E5          A5
+See you in heaven far away.
+B5     B5
+I stay, i pray,
+    E5          A5
+See you in heaven one day.
+
+(SE REPITEN LOS MISMOS ACORDES DE EL VERSO 1, EL VERSO 2 Y EL CORO)
+
+-Base De El Solo De Violin
+(C#m-A-B-E-B)X2
+-Base De El Solo De Flauta
+(E-B-C#m-A-B)X2
+-Base De El Solo De Guitarra
+(C#m-A-B-E-B)X2
+
+E                          B                (C#m-A-B)
+Caught in the middle of a hundred and five,
+E                            B
+the night was heavy and the air was alive,
+        C#m            A           B        (C#m-A)
+but she couldn´t find how to push through.
+B                  E         B      (C#m-A)
+Carried away by a moonlight shadow.
+B                  E         B
+carried away by a moonlight shadow. (E-B)
+C#m    A        B
+far away on the other side.
