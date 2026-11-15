@@ -4,7 +4,7 @@ import "server-only";
 
 import type { InteractiveSheetLine } from "@/lib/chord-types";
 import { tokenizeChordLine } from "@/lib/chords";
-import { cleanChordToken, isChordSymbol } from "@/lib/notation";
+import { cleanChordToken, isChordSymbol, toAmericanSymbol } from "@/lib/notation";
 
 export type SheetKind = "tab" | "tab-chords" | "chords";
 
@@ -55,6 +55,16 @@ export function uniqueChords(lines: InteractiveSheetLine[]): string[] {
     }
   }
   return [...seen];
+}
+
+/** Every chord in reading order (repeats included), in American spelling. */
+export function chordSequence(lines: InteractiveSheetLine[]): string[] {
+  return lines.flatMap((line) =>
+    (line.segments ?? [])
+      .filter((segment) => segment.type === "chord")
+      .map((segment) => toAmericanSymbol(cleanChordToken(segment.value)))
+      .filter((symbol): symbol is string => Boolean(symbol)),
+  );
 }
 
 function isChordLine(line: string): boolean {
